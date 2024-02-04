@@ -2243,7 +2243,7 @@ main.container {
   .header-top__inner {
     transform: scale(.7);
     margin-top: -100px;
-    margin-left: -70px;
+    margin-left: -60px;
     
   }
   .burger {
@@ -2368,7 +2368,7 @@ main.container {
 /*--------------------------------500-----------------------------------*/
 @media(max-width: 500px) {
   .header-top__inner {
-    margin-left: -80px;
+    margin-left: -70px;
   }
 
   .burger {
