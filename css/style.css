@@ -2175,7 +2175,10 @@ main.container {
   section.trusted {
     padding: 300px 0;
   }
-
+  /*-----------------------------*/
+  .rating__inner{
+    margin-bottom: 0;
+  }
   /*-----------------------------*/
   .learn__inner {
     gap: 160px;
